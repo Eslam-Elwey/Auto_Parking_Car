@@ -3,7 +3,7 @@ Using MCU ATMEGA32
 HAL : Servo Motor / LCD / UltraSonic / DC Motor
 MCAL : Timers / External Interrupts / DIO
 Services : Timer Services 
-APP : Auto_Parking_APP
+APP : Auto_Parking
 
 
 
